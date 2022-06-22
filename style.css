@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rosybrown;
+}
+button {
+    transition: 0.25s ease-in-out;
+    cursor: pointer;
+    width: 300px;
+    height: 50px;
+    font-size: 15px;
+    color: white;
+    background-color:black;
+    outline: none;
+}
+
+button:hover {
+    background-color: green;
+
+}
+div{
+    text-align: center;
+}
+pre {
+    font-size: 20px;
+    text-align: center;
+    color: aqua;
+    background-color: black;
+
+}
